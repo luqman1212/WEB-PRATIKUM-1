@@ -1,1 +1,9 @@
-# WEB-PRATIKUM-1
+![alt text](https://github.com/luqman1212/WEB-PRATIKUM-1.git?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
+![alt text](?raw=true)
